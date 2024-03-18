@@ -1,3 +1,5 @@
+use rand::Rng;
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
